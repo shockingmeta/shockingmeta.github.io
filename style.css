@@ -1,0 +1,40 @@
+/*h1{
+	color: red;
+	//This will select and apply to all elements if no class specified
+}
+*/
+
+.red{
+	color: red;
+}
+
+.blue{
+	color: green;
+}
+
+.box{
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	height: 200px;
+	width: 200px;
+	background-color: salmon;
+	text-align: center;
+	padding: 40px;
+	border: 10px solid yellow;
+}
+
+h1{
+	font-family: Helvetica;
+	color: white;
+}
+
+p{
+	font-family: Helvetica;
+	color: white;
+}
+
+body{
+	background-color: blue;
+}
